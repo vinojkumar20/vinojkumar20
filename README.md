@@ -12,7 +12,7 @@
 - 🔭 I'm currently working on data analysis & BI dashboard projects
 - 🌱 I'm currently strengthening my skills in **Python, SQL, and Power BI**
 - 💡 I love turning messy data into clear, actionable stories
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **REPLACE_WITH_YOUR_EMAIL@gmail.com**
 - ⚡ Fun fact: I enjoy solving real-world problems with data
 
 ---
@@ -56,10 +56,10 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="REPLACE_WITH_YOUR_LINKEDIN_URL" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:REPLACE_WITH_YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
